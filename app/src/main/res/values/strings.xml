@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test2project</string>
+
+    <string name="loginScreen">LoginScreen</string>
+    <string name="registerScreen">RegisterScreen</string>
+    <string name="homeScreen">HomeScreen</string>
+    <string name="entryDataScreen">EntryDataScreen</string>
+    <string name="addEntryScreen">AddEntryScreen</string>
+    <string name="editEntryScreen">EditEntryScreen</string>
+    <string name="generatePass">GeneratePasswordScreen</string>
+
+</resources>
